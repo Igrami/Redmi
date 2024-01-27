@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Redmi\bin\Debug\net8.0\Redmi.exe
+C:\Users\User\Desktop\Redmi\bin\Debug\net8.0\Redmi.deps.json
+C:\Users\User\Desktop\Redmi\bin\Debug\net8.0\Redmi.runtimeconfig.json
+C:\Users\User\Desktop\Redmi\bin\Debug\net8.0\Redmi.dll
+C:\Users\User\Desktop\Redmi\bin\Debug\net8.0\Redmi.pdb
+C:\Users\User\Desktop\Redmi\obj\Debug\net8.0\Redmi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Redmi\obj\Debug\net8.0\Redmi.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Redmi\obj\Debug\net8.0\Redmi.AssemblyInfo.cs
+C:\Users\User\Desktop\Redmi\obj\Debug\net8.0\Redmi.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Redmi\obj\Debug\net8.0\Redmi.dll
+C:\Users\User\Desktop\Redmi\obj\Debug\net8.0\refint\Redmi.dll
+C:\Users\User\Desktop\Redmi\obj\Debug\net8.0\Redmi.pdb
+C:\Users\User\Desktop\Redmi\obj\Debug\net8.0\Redmi.genruntimeconfig.cache
+C:\Users\User\Desktop\Redmi\obj\Debug\net8.0\ref\Redmi.dll
